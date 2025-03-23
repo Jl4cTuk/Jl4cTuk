@@ -8,11 +8,35 @@
 - [Telegram](https://t.me/Jl4cTuk)
 
 # 💻 Tech Stack:
+
+## 🧰 DevOps & Infrastructure
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,cloudflare,flask,githubactions,linux,mint,py,terraform,vscode,ansible" />
+    <img src="https://skillicons.dev/icons?i=docker,terraform,ansible,githubactions,cloudflare" />
   </a>
 </p>
+
+## 🖥️ OS & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,mint,vim,vscode,git" />
+  </a>
+</p>
+
+## 👨‍💻 Programming
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c" />
+  </a>
+</p>
+
+## 🌐 Web Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+</p>
+
 
 <!--
 **Jl4cTuk/Jl4cTuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
