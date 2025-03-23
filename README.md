@@ -1,18 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=color=0:8871e5,100:b678c4&text=I%20am%20Jl4cTuk&section=header&reversal=false&textBg=false&animation=fadeIn&stroke=b678c4&strokeWidth=1&fontSize=70" />
 </p>
+
 ## 👾 About Me
 
 - 🎓 21 y.o. Student @ TSU  
 - 🧠 CTF player with [SiBears](https://gitlab.com/sibears)  
-- ⚡ I break stuff to understand it better  
-
-## 📱 Socials
-<p align="left">
-  <a href="https://t.me/Jl4cTuk" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" width="40" height="40" style="border-radius: 50%;" />
-  </a>
-</p>
+- ⚡ I break stuff to understand it better
+- 📬 Reach me on [Telegram](https://t.me/Jl4cTuk)
 
 ## 💻 Tech Stack
 <p align="center">
