@@ -9,28 +9,24 @@
 
 # 💻 Tech Stack:
 
-## 🧰 DevOps & Infrastructure
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,terraform,ansible,githubactions,cloudflare" />
   </a>
 </p>
 
-## 🖥️ OS & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,mint,vim,vscode,git" />
   </a>
 </p>
 
-## 👨‍💻 Programming
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c" />
   </a>
 </p>
 
-## 🌐 Web Development
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask" />
