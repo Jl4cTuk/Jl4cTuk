@@ -26,5 +26,5 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jl4cTuk&show_icons=true&theme=gotham" alt="Jl4cTuk's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jl4cTuk&show_icons=true&theme=catppuccin_mocha" alt="Jl4cTuk's GitHub stats" />
 </p>
